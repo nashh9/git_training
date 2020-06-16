@@ -2,3 +2,5 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Adding a line while using git branch
 Adding a line to test divergent branches
 Adding a line to test rebasing
+Adding a line to test interactive rebase
+Adding another line to test interactive rebase
